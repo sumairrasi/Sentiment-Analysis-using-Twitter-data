@@ -1,6 +1,6 @@
 ## Sentiment Analysis
 
-> Sentiment analysis, also known as opinion mining, is a subfield of natural language processing (NLP) that focuses on identifying and extracting subjective information from text data. It involves determining the sentiment expressed in a piece of text, which can be classified as positive, negative, neutral,Irrelevent or more fine-grained categories depending on the application.
+Sentiment analysis, also known as opinion mining, is a subfield of natural language processing (NLP) that focuses on identifying and extracting subjective information from text data. It involves determining the sentiment expressed in a piece of text, which can be classified as positive, negative, neutral,Irrelevent or more fine-grained categories depending on the application.
 
 ### Dataset
 
