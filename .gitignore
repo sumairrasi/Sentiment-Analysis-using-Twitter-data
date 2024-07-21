@@ -1,0 +1,9 @@
+__pycache__/
+artifacts/results/
+notebooks/artifacts/
+notebooks/mlruns/
+notebooks/results/
+dist/
+logs/
+TextClassification.egg-info/
+venv/

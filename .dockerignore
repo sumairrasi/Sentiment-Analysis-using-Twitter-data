@@ -1,0 +1,5 @@
+artifacts\results
+dist
+logs
+notebooks
+TextClassification.egg-info
