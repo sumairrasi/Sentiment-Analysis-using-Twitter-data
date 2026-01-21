@@ -55,3 +55,5 @@ To further enhance and extend the capabilities of this sentiment analysis projec
 3. **Multilingual Sentiment Analysis** : Fine-tune multilingual models like mBERT or XLM-R on sentiment datasets from various languages to create a versatile sentiment analysis tool.
 4. **Incorporate More Advanced Preprocessing Techniques** : Implement techniques such as named entity recognition (NER), part-of-speech tagging, and syntactic parsing to enrich the text data before feeding it into the model.
 5. **Real-time Sentiment Analysis** : Develop a pipeline that can handle live data streams, preprocess the data in real-time, and deliver instant sentiment analysis results.
+
+This project based on development 
